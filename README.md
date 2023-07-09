@@ -11,17 +11,17 @@ To run this program, you will need:
 # Installation
 To install this program on your Arduino board, follow these steps:
 
-1- Connect the seven-segment display to your Arduino board using jumper wires. Refer to the comments in the code for the pin connections.
+1. Connect the seven-segment display to your Arduino board using jumper wires. Refer to the comments in the code for the pin connections.
 
-2- Open the Arduino IDE and create a new sketch.
+2. Open the Arduino IDE and create a new sketch.
 
-3- Copy and paste the code from seven_segment_counter.ino into the new sketch.
+3. Copy and paste the code from seven_segment_counter.ino into the new sketch.
 
-4- Verify the code by clicking on the "Verify" button in the Arduino IDE.
+4. Verify the code by clicking on the "Verify" button in the Arduino IDE.
 
-5- Upload the code to your Arduino board by clicking on the "Upload" button in the Arduino IDE.
+5. Upload the code to your Arduino board by clicking on the "Upload" button in the Arduino IDE.
 
-6- The seven-segment display should now start counting from 0 to 9.
+6. The seven-segment display should now start counting from 0 to 9.
 
 # Usage
 The program is set up to count from 0 to 9 and display each number for 1 second. You can modify the program to change the counting sequence or the display duration.
